@@ -1,4 +1,6 @@
-### Hi there 👋
+### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px">Hi there!
+
+[![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=ffffff&text_color=505050&icon_color=ffffb3&bg_color=FFFFFF,FF91A4,CCCCFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GHeeJeon/GheeJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
