@@ -1,6 +1,6 @@
 ### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px">𝙱𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏, 𝚗𝚘 𝚖𝚊𝚝𝚝𝚎𝚛 𝚠𝚑𝚊𝚝 𝚝𝚑𝚎𝚢 𝚜𝚊𝚢<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px">
 
-[![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Korean eddition")
+[![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Korean flag eddition")
 
 <!--
 **GHeeJeon/GheeJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
