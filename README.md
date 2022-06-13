@@ -1,4 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px">𝙳𝚘𝚗'𝚝 𝚠𝚘𝚛𝚛𝚢 𝚊𝚋𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚎𝚌𝚝!<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px">
+### <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="75"> 𝙳𝚘𝚗'𝚝 𝚠𝚘𝚛𝚛𝚢 𝚊𝚋𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚎𝚌𝚝! <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="75">
 
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Korean flag eddition")
 
