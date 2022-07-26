@@ -2,10 +2,6 @@
 
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Korean flag eddition")
 
-### TODO
-1. 블로그 마저 꾸미기
-2. vim 플러그인 설치하기
-3. 수영장에서 배운 내용 정리하기 (블로그를 활용할 것)
 <!--
 **GHeeJeon/GheeJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
