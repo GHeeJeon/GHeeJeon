@@ -1,8 +1,11 @@
-### <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50"> 𝙳𝚘𝚗'𝚝 𝚠𝚘𝚛𝚛𝚢 𝚊𝚋𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚎𝚌𝚝! <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50">
+# <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50"> 𝙳𝚘𝚗'𝚝 𝚠𝚘𝚛𝚛𝚢 𝚊𝚋𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚎𝚌𝚝! <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50">
 
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=EF296A&text_color=EF296A&icon_color=FFE423&bg_color=90,FEAED6,FEAED6,A42357,&border_color=A42357&border_radius=25&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Kirby eddition")
 
+![Snake animation](https://github.com/GHeeJeon/GHeeJeon/blob/output/github-contribution-grid-snake.svg)
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEAED6&height=300&section=header&text=𝙳𝚘𝚗'𝚝+𝚠𝚘𝚛𝚛𝚢+𝚊𝚋𝚘𝚞𝚝+𝚋𝚎𝚒𝚗𝚐+𝚙𝚎𝚛𝚏𝚎𝚌𝚝!&fontSize=45&fontColor=ffffff)
+
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=0047A0&text_color=000000&icon_color=CC303B&bg_color=FFFFFF&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Korean flag eddition")
 **GHeeJeon/GheeJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
