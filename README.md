@@ -2,7 +2,7 @@
 
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=EF296A&text_color=EF296A&icon_color=FFE423&bg_color=90,FEAED6,FEAED6,A42357,&border_color=A42357&border_radius=25&)](https://github.com/GHeeJeon/GHeeJeon "GitHub stats card Kirby eddition")
 
-![](https://github.com/GHeeJeon/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/GHeeJeon/snk/raw/output/github-contribution-grid-snake.gif)
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FEAED6&height=300&section=header&text=𝙳𝚘𝚗'𝚝+𝚠𝚘𝚛𝚛𝚢+𝚊𝚋𝚘𝚞𝚝+𝚋𝚎𝚒𝚗𝚐+𝚙𝚎𝚛𝚏𝚎𝚌𝚝!&fontSize=45&fontColor=ffffff)
