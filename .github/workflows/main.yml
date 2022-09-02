@@ -27,7 +27,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/kirby.gif?color_snake=#fdaed6&color_dots=#eaedf0,#8dbdff,#fff5bc,#ffeb70,#ffe423
             dist/kirby1.gif?color_snake=#ffe423&color_dots=#eaedf0,#8dbdff,#f9deeb,#fcc7e1,#fdaed6
 
