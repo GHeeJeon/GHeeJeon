@@ -27,7 +27,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/kirby.gif?color_snake=#fdaed6&color_dots=#eaedf0,#fff5bc,#ffed89,#ffe423,#f7d600
+            dist/github-contribution-grid-snake-kirby.gif?color_snake=#fdaed6&color_dots=#eaedf0,#fff5bc,#ffed89,#ffe423,#f7d600
+            dist/github-contribution-grid-snake-kirby.svg?color_snake=#fdaed6&color_dots=#eaedf0,#fff5bc,#ffed89,#ffe423,#f7d600
+
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
