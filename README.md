@@ -5,8 +5,8 @@
 
 
 ### Github contribution grid snake animation　<img src="https://user-images.githubusercontent.com/47032054/188109616-94318f16-ae92-4b2a-83c1-91da3e9cf9cb.gif" height="40" width="55">
-![github contribution grid snake animation](https://raw.githubusercontent.com/GHeeJeon/GHeeJeon/output/github-contribution-grid-snake-kirby.svg#gh-light-mode-only "Kirby eddition")
 ![github contribution grid snake animation](https://raw.githubusercontent.com/GHeeJeon/GHeeJeon/output/github-contribution-grid-snake-kirby-dark.svg#gh-dark-mode-only "Kirby eddition")
+![github contribution grid snake animation](https://raw.githubusercontent.com/GHeeJeon/GHeeJeon/output/github-contribution-grid-snake-kirby.svg#gh-light-mode-only "Kirby eddition")
 
 
 
