@@ -1,10 +1,14 @@
-# <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50"> 𝙳𝚘𝚗'𝚝 𝚠𝚘𝚛𝚛𝚢 𝚊𝚋𝚘𝚞𝚝 𝚋𝚎𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚎𝚌𝚝! <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" width="50">
+# <img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50">　Don't worry about being perfect!　<img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50">
 
-### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚌𝚊𝚛𝚍
+### Github stats card　<img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="50">
 [![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=EF296A&text_color=EF296A&icon_color=FFE423&bg_color=90,FEAED6,FEAED6,A42357,&border_color=A42357&border_radius=25&)](https://github.com/GHeeJeon/GHeeJeon "Kirby eddition")
 
-### 𝙶𝚒𝚝𝚑𝚞𝚋 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚐𝚛𝚒𝚍 𝚜𝚗𝚊𝚔𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗
+
+### Github contribution grid snake animation　<img src="https://user-images.githubusercontent.com/47032054/188109616-94318f16-ae92-4b2a-83c1-91da3e9cf9cb.gif" height="50">
 ![github contribution grid snake animation](https://raw.githubusercontent.com/GHeeJeon/GHeeJeon/output/github-contribution-grid-snake-kirby.svg "Kirby eddition")
+
+
+<img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="50">　<img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50">　<img src="https://user-images.githubusercontent.com/47032054/188109616-94318f16-ae92-4b2a-83c1-91da3e9cf9cb.gif" height="50">　
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FEAED6&height=300&section=header&text=𝙳𝚘𝚗'𝚝+𝚠𝚘𝚛𝚛𝚢+𝚊𝚋𝚘𝚞𝚝+𝚋𝚎𝚒𝚗𝚐+𝚙𝚎𝚛𝚏𝚎𝚌𝚝!&fontSize=45&fontColor=ffffff)
