@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50" width="50">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&duration=3000&pause=2500&color=24292E&center=true&vCenter=true&width=700&height=50&lines=Be+yourself%2C+no+matter+what+they+say.;Don't+worry+about+being+perfect!)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50" width="50">
+<img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50" width="50">　<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=1500&pause=2500&color=24292E&center=true&vCenter=true&width=500&height=50&lines=Be+yourself%2C+no+matter+what+they+say.;Don't+worry+about+being+perfect!" alt="Typing SVG" />　</a><img src="https://user-images.githubusercontent.com/47032054/185353961-c6cd27b3-0440-4522-86a0-30a49bc4e98c.gif" height="50" width="50">
+
 
 
 ### <img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="30" width="35">　Stats card
