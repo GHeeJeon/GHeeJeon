@@ -3,7 +3,7 @@
 
 
 ### <img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="30" width="35">　Stats card
-[![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=EF296A&text_color=EF296A&icon_color=FFE423&bg_color=90,FEAED6,FEAED6,A42357,&border_color=A42357&border_radius=25&)](https://github.com/anuraghazra/github-readme-stats](https://github.com/GHeeJeon/GHeeJeon "Kirby eddition")
+[![GHeeJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHeeJeon&show_icons=true&title_color=EF296A&text_color=EF296A&icon_color=FFE423&bg_color=90,FEAED6,FEAED6,A42357,&border_color=A42357&border_radius=25&)](https://github.com/GHeeJeon/GHeeJeon "Kirby eddition")
 
 
 ### <img src="https://user-images.githubusercontent.com/47032054/188109616-94318f16-ae92-4b2a-83c1-91da3e9cf9cb.gif" height="40" width="55">　Contribution grid snake animation
