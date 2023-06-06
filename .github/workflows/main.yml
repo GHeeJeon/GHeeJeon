@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "0 */24 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -22,16 +22,13 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v2.0.0-rc.2
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-kirby.gif?color_snake=#fdaed6&color_dots=#eaedf0,#fff5bc,#ffed89,#ffe423,#f7d600
             dist/github-contribution-grid-snake-kirby-dark.svg?color_snake=#ff70b7&color_dots=#38559e,#fff5bc,#faf191,#ffe423,#f7d600
             dist/github-contribution-grid-snake-kirby.svg?color_snake=#ff70b7&color_dots=#dfeafe,#fff5bc,#faf191,#ffe423,#f7d600
-
-
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
