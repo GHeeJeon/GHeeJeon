@@ -3,7 +3,7 @@
 
 
 <!-- Githib Stats Card-->
-### <img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="30" width="35">　Stats card
+### <img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="30" width="35">　Stats card <img src="https://user-images.githubusercontent.com/47032054/188113900-51ae0d34-56be-4999-a4d8-cfa073cc18fb.png" height="30" width="35">
 [![GHeeJeon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GHeeJeon&show_icons=true&rank_icon=github&title_color=ffffff&text_color=fff2f6&icon_color=ffe57f&bg_color=90,fdaed6,f73d91&border_color=fd60a3&border_radius=20&)](https://github.com/GHeeJeon/GHeeJeon "Kirby eddition")
 
 <!-- Contribution Grid Snake Animation -->
